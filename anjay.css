@@ -1,0 +1,32 @@
+*,
+html {
+    margin:0;
+    padding:0;
+}
+
+.h1-content{
+    margin-top: 50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.h2-content {
+    background-color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+color: azure;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
